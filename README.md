@@ -4,7 +4,6 @@ A complete weather dashboard built for an internship project. Search any city, s
 conditions, a 24-hour outlook and a 7-day forecast, and pin your favourite cities so they
 are one click away.
 
-**Live:** https://site-473b0ed67b9b4763abcb7ae78a8ccb3b.freebuff.page
 
 No API key, no signup, no database server to run — `npm install && npm run dev` is the whole
 setup, and the app runs on Cloudflare Workers in production.
